@@ -1,36 +1,36 @@
 {
-  "en": [
+  "": [
     {
       "text": "Versions",
       "items": [
         {
           "text": "master",
-          "link": "/../master/en/installing/compilation.html",
+          "link": "/../installing/compilation.html",
           "target": "_blank"
         },
         {
           "text": "branch-0.15",
-          "link": "/../branch-0.15/en/installing/compilation.html",
+          "link": "/../branch-0.15/installing/compilation.html",
           "target": "_blank"
         },
         {
           "text": "branch-0.14",
-          "link": "/../branch-0.14/en/installing/compilation.html",
+          "link": "/../branch-0.14/installing/compilation.html",
           "target": "_blank"
         },
         {
           "text": "branch-0.13",
-          "link": "/../branch-0.13/en/installing/compilation.html",
+          "link": "/../branch-0.13/installing/compilation.html",
           "target": "_blank"
         },
         {
           "text": "branch-0.12",
-          "link": "/../branch-0.12/en/installing/compilation.html",
+          "link": "/../branch-0.12/installing/compilation.html",
           "target": "_blank"
         },
         {
           "text": "branch-0.11",
-          "link": "/../branch-0.11/en/installing/compilation.html",
+          "link": "/../branch-0.11/installing/compilation.html",
           "target": "_blank"
         }
       ]
@@ -42,7 +42,7 @@
       "items": [
         {
           "text": "master",
-          "link": "/../master/zh-CN/installing/compilation.html",
+          "link": "/../zh-CN/installing/compilation.html",
           "target": "_blank"
         },
         {
